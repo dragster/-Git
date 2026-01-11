@@ -1,1 +1,9 @@
-временные файлы
+# Windows системные файлы
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Временные файлы и логи
+*.log
+*.tmp
+*.temp
