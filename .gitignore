@@ -7,3 +7,4 @@ $RECYCLE.BIN/
 *.log
 *.tmp
 *.temp
+Add gitignore for Windows
